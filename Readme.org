@@ -1,0 +1,38 @@
+#+title: LeitnerBox
+
+* HOW TO STUDY EFFICIENTLY?
+** Leitner Method
++ *Sebastian Leitner* (1919 – 1989) German commentator and Science Popularizer.​
++ Spaced Repetition
+ #+CAPTION: Curve of Forgetting
+ #+attr_html: :width 400px
+ #+attr_org: :width 400
+  [[file:img/curve_of_forgetting.jpg]]
++ Flash Card
+ #+attr_html: :width 400px
+ #+attr_org: :width 400
+ #+caption: Flash card
+  [[file:img/card.png]]
+
+** How It Works
++ Multi box
++ Each box has a longer period of review than the previous
++ For each *good answer* move the card to the *next* box
++ For each *bad answer* move the card to the *first* box
+
+#+attr_html: :width 400px
+#+attr_org: :width 400
+#+caption: Leitner box in use
+[[file:img/Leitner_system_alternative.png]]
+
+** What Can I Learn
++ Translations
++ Association with Picture
++ Definition
++ Gapped Sentence
++ Dates
++ Concept
+
+** Use Social Medial Techniques
++ Streak methods
++ Notifications to review every day
