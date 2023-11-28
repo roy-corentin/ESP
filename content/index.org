@@ -1,5 +1,7 @@
 #+title: InnovateSphere - Efficient Study Method
 
+[[file:img/leitner_box.png]]
+
 * Introduction
 InnovateSphere presents an efficient study method inspired by Sebastian Leitner's spaced repetition technique. This method optimizes learning through organized review intervals, ensuring better retention and recall.
 
@@ -25,7 +27,8 @@ The core principle involves using multiple boxes, each with a different review p
 #+attr_org: :width 400
 #+caption: Curve of forgetting
 [[file:img/curve_of_forgetting.jpg]]
-** Why InnovateSphere Works
+
+** Why InnovateSphere works
 Facilitates learning:
   - translations
   - associations
