@@ -28,7 +28,7 @@ The core principle involves using multiple boxes, each with a different review p
 #+caption: Curve of forgetting
 [[file:img/curve_of_forgetting.jpg]]
 
-** Why InnovateSphere works
+** Why you should use InnovateSphere
 Facilitates learning:
   - translations
   - associations
