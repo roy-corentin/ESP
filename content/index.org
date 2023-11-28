@@ -13,9 +13,7 @@ The core principle involves using multiple compartments in the same box, each wi
 
 Another key principle is the flashcard method, featuring a front side presenting a phrase or image, while the reverse side provides the corresponding answer or information.
 
-Here's how it works:
-
-** How It Works
+** Here's how it works
 - Repetition is the key to memorize
 #+attr_html: :width 400px
 #+attr_org: :width 400
