@@ -53,11 +53,16 @@ Facilitates learning:
 
 * Features
 ** Review Module
++ Complete daily reviews
++ Manage previous reviews that are pending or unfinished
 ** Statistical Analysis
++ Track daily, weekly, monthly, and overall progress
++ Detailed insights on total reviews, numbers, dates, etc.
++ Specifics on each reviewed card and box
 ** Sharing Capabilities
-- Share progress and statistics:
-  - Box-wise performance.
-  - Overall statistics.
++ Share personal boxes with other users
++ Exchange personal statistics with friends
++ Rate other users' boxes for improved search and sorting functionality
 
 * Frequently Asked Questions (FAQs)
 ** How to Maximize Learning?
