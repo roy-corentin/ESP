@@ -60,9 +60,11 @@ Facilitates learning:
 + Detailed insights on total reviews, numbers, dates, etc.
 + Specifics on each reviewed card and box
 ** Sharing Capabilities
-+ Share personal boxes with other users
-+ Exchange personal statistics with friends
-+ Rate other users' boxes for improved search and sorting functionality
++ Share Boxes
+  + Share personal boxes with other users
+  + Rate other users' boxes for improved search and sorting functionality
++ Share progress and statistics
+  + Exchange personal statistics with friends
 
 * Frequently Asked Questions (FAQs)
 ** How to Maximize Learning?
