@@ -29,7 +29,6 @@
          :base-directory "./content"
          :publishing-function org-html-publish-to-html ; Changed from 'org-html-publish-to-html'
          :publishing-directory "./public"
-         :base-extension "org\\|svg\\|css\\|png\\|jpg"
          :with-author nil
          :with-creator t
          :with-toc t
