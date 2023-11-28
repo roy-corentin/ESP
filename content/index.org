@@ -1,47 +1,64 @@
-#+title: LeitnerBox
+#+title: LeitnerBox - Efficient Study Method
 
-* HOW TO STUDY EFFICIENTLY?
-** Leitner Method
-+ *Sebastian Leitner* (1919 – 1989) German commentator and Science Popularizer.​
-+ Spaced Repetition
- #+CAPTION: Curve of Forgetting
- #+attr_html: :width 400px
- #+attr_org: :width 400
-  [[file:img/curve_of_forgetting.jpg]]
-+ Flash Card
- #+attr_html: :width 400px
- #+attr_org: :width 400
- #+caption: Flash card
-  [[file:img/card.png]]
+* Introduction
+LeitnerBox presents an efficient study method inspired by Sebastian Leitner's spaced repetition technique. This method optimizes learning through organized review intervals, ensuring better retention and recall.
+
+* Sebastian Leitner (1919 – 1989)
+Sebastian Leitner, a German commentator and Science Popularizer, devised the spaced repetition technique. His method revolutionizes learning by employing spaced intervals for effective memorization.
+
+* Understanding the Leitner Method
+The core principle involves using multiple boxes, each with a different review period. Here's how it works:
 
 ** How It Works
-+ Multi box
-+ Each box has a longer period of review than the previous
-+ For each *good answer* move the card to the *next* box
-+ For each *bad answer* move the card to the *first* box
+- Utilizes multiple boxes, each with increasing review intervals.
+- When you answer correctly, the card progresses to the next box.
+- An incorrect answer results in the card moving back to the initial box for revision.
 
 #+attr_html: :width 400px
 #+attr_org: :width 400
-#+caption: Leitner box in use
+#+caption: Leitner Box in Action
 [[file:img/Leitner_system_alternative.png]]
 
-** FAQ
-*** What Can I Learn
-+ Translations
-+ Association with Picture
-+ Definition
-+ Gapped Sentence
-+ Dates
-+ Concept
+** Why LeitnerBox Works
+Facilitates learning:
+  - translations
+  - associations
+  - definitions
+  - gapped sentences
+  - dates
+  - concepts
 
-*** What is the recommended frequency
-+ The first box must be reviewed every day
-+ The second box every two days
-+ The this third every weeks
-+ The fourth every two weeks
-+ And the fifth every month
+*** Recommended Review Frequency
+1. Box 1: Daily
+2. Box 2: Every two days
+3. Box 3: Weekly
+4. Box 4: Bi-weekly
+5. Box 5: Monthly
 
+** Enhancing Learning
+- Leverage social media techniques:
+  - Implement streak methods.
+  - Send notifications for daily reviews.
 
-** Use Social Medial Techniques
-+ Streak methods
-+ Notifications to review every day
+* Features
+** Review Module
+** Statistical Analysis
+** Sharing Capabilities
+- Share progress and statistics:
+  - Box-wise performance.
+  - Overall statistics.
+
+* Frequently Asked Questions (FAQs)
+** How to Maximize Learning?
+- Engage actively with flashcards, ensure consistent daily reviews, and aim for gradual progress through the boxes.
+
+** How to Handle Difficult Concepts?
+- For challenging cards, consider breaking them down into smaller, digestible parts.
+
+** Can I Customize Review Intervals?
+- Yes, adjust intervals based on personal learning patterns and card difficulty.
+
+* Conclusion
+The LeitnerBox method, with its structured review intervals and interactive learning approach, stands as an effective tool for mastering various subjects.
+
+# Set up notifications, engage with the method regularly, and experience efficient learning with LeitnerBox.
