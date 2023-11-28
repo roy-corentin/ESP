@@ -1,7 +1,7 @@
-#+title: LeitnerBox - Efficient Study Method
+#+title: InnovateSphere - Efficient Study Method
 
 * Introduction
-LeitnerBox presents an efficient study method inspired by Sebastian Leitner's spaced repetition technique. This method optimizes learning through organized review intervals, ensuring better retention and recall.
+InnovateSphere presents an efficient study method inspired by Sebastian Leitner's spaced repetition technique. This method optimizes learning through organized review intervals, ensuring better retention and recall.
 
 * Sebastian Leitner (1919 – 1989)
 Sebastian Leitner, a German commentator and Science Popularizer, devised the spaced repetition technique. His method revolutionizes learning by employing spaced intervals for effective memorization.
@@ -25,7 +25,7 @@ The core principle involves using multiple boxes, each with a different review p
 #+attr_org: :width 400
 #+caption: Curve of forgetting
 [[file:img/curve_of_forgetting.jpg]]
-** Why LeitnerBox Works
+** Why InnovateSphere Works
 Facilitates learning:
   - translations
   - associations
@@ -65,6 +65,6 @@ Facilitates learning:
 - Yes, adjust intervals based on personal learning patterns and card difficulty.
 
 * Conclusion
-The LeitnerBox method, with its structured review intervals and interactive learning approach, stands as an effective tool for mastering various subjects.
+The InnovateSphere method, with its structured review intervals and interactive learning approach, stands as an effective tool for mastering various subjects.
 
-# Set up notifications, engage with the method regularly, and experience efficient learning with LeitnerBox.
+# Set up notifications, engage with the method regularly, and experience efficient learning with InnovateSphere.
