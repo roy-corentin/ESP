@@ -25,13 +25,22 @@
 #+caption: Leitner box in use
 [[file:img/Leitner_system_alternative.png]]
 
-** What Can I Learn
+** FAQ
+*** What Can I Learn
 + Translations
 + Association with Picture
 + Definition
 + Gapped Sentence
 + Dates
 + Concept
+
+*** What is the recommended frequency
++ The first box must be reviewed every day
++ The second box every two days
++ The this third every weeks
++ The fourth every two weeks
++ And the fifth every month
+
 
 ** Use Social Medial Techniques
 + Streak methods
