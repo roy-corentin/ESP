@@ -18,20 +18,17 @@ The core principle involves using multiple boxes, each with a different review p
 
 #+attr_html: :width 400px
 #+attr_org: :width 400
-#+caption: Leitner Box in Action
 [[file:img/Leitner_system_alternative.png]]
 
 - Repetition is the key to memorize
 
 #+attr_html: :width 400px
 #+attr_org: :width 400
-#+caption: Curve of forgetting
 [[file:img/curve_of_forgetting.jpg]]
 
 
 #+attr_html: :width 400px
 #+attr_org: :width 400
-#+caption: Leitner Box Animation
 [[file:img/Leitner_system_animation.gif]]
 ** Why you should use InnovateSphere
 Facilitates learning:
