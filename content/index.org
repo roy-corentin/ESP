@@ -25,7 +25,7 @@ Another key principle is the flashcard method, featuring a front side presenting
 
 #+attr_html: :width 400px
 #+attr_org: :width 400
-[[file:img/Leitner_system_alternative.png]]
+[[file:img/Leitner_system_alternative_with_background.png]]
 
 #+attr_html: :width 400px
 #+attr_org: :width 400
