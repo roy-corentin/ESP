@@ -39,22 +39,10 @@ Facilitates learning:
 | What        | How                   |
 |-------------+-----------------------|
 | translation | Basic words/sentences |
-| Citation    | Gaped Sentence        |
-| definition  | Basic words/sentences |
+| citation    | Gaped Sentence        |
 | location    | Picture               |
-| date        | Basic words/sentences |
-
-*** What
-  - translations
-  - associations
-  - definitions
-  - dates
-  - concepts
-  - location
-*** How
-  - gapped sentences
-  - pictures
-  - basic words/sentences
+| definition  |                       |
+| date        |                       |
 
 *** Recommended Review Frequency
 1. Box 1: Daily
