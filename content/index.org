@@ -36,11 +36,11 @@ Facilitates learning:
 
 | What        | How                   |
 |-------------+-----------------------|
-| translation | Basic words/sentences |
-| citation    | Gaped Sentence        |
-| location    | Picture               |
-| definition  |                       |
-| date        |                       |
+| Translation | Basic words/sentences |
+| Citation    | Gaped Sentence        |
+| Location    | Picture               |
+| Definition  |                       |
+| Date        |                       |
 
 *** Recommended Review Frequency
 1. Box 1: Daily
