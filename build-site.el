@@ -24,7 +24,7 @@
 
 ;; Define the publishing project
 (setq org-publish-project-alist
-      `(("orgfiles"
+      '(("orgfiles"
          :recursive t
          :base-directory "./content"
          :publishing-function 'org-html-publish-to-html
