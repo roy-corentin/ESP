@@ -19,6 +19,10 @@ The core principle involves using multiple boxes, each with a different review p
 #+caption: Leitner Box in Action
 [[file:img/Leitner_system_alternative.png]]
 
+- Repetition is the key to memorize
+ #+attr_html: :width 400px
+ #+attr_org: :width 400
+  [[file:img/curve_of_forgetting.jpg]]
 ** Why LeitnerBox Works
 Facilitates learning:
   - translations
