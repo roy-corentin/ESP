@@ -36,7 +36,7 @@
          :time-stamp-file nil)
         ("images"
          :base-directory "./content/img"
-         :base-extension "png\\|jpg\\|svg"
+         :base-extension "png\\|jpg\\|svg\\|gif"
          :publishing-directory "./public/img"
          :publishing-function org-publish-attachment)
         ("org-site:main" :components("orgfiles" "images"))))
