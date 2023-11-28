@@ -27,21 +27,19 @@
       '(("orgfiles"
          :recursive t
          :base-directory "./content"
-         :publishing-function 'org-html-publish-to-html
+         :publishing-function org-html-publish-to-html ; Changed from 'org-html-publish-to-html'
          :publishing-directory "./public"
          :base-extension "org\\|svg\\|css\\|png\\|jpg"
-         :with-author nil           ;; Don't include author name
-         :with-creator t            ;; Include Emacs and Org versions in footer
-         :with-toc t                ;; Include a table of contents
-         :section-numbers nil       ;; Don't include section numbers
-         :time-stamp-file nil       ;; Don't include time stamp in file
-         )
+         :with-author nil
+         :with-creator t
+         :with-toc t
+         :section-numbers nil
+         :time-stamp-file nil)
         ("images"
          :base-directory "./content/img"
          :base-extension "png\\|jpg\\|svg"
          :publishing-directory "./public/img"
-         :publishing-function org-publish-attachment
-         )
+         :publishing-function org-publish-attachment)
         ("org-site:main" :components("orgfiles" "images"))))
 
 ;; Generate the site output
