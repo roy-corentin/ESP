@@ -9,10 +9,17 @@ InnovateSphere presents an efficient study method inspired by Sebastian Leitner'
 Sebastian Leitner, a German commentator and Science Popularizer, devised the spaced repetition technique. His method revolutionizes learning by employing spaced intervals for effective memorization.
 
 * Understanding the Leitner Method
-The core principle involves using multiple boxes, each with a different review period. Here's how it works:
+The core principle involves using multiple compartments in the same box, each with a different review period.
+Another key principle is the flashcard method, featuring a front side presenting a phrase or image, while the reverse side provides the corresponding answer or information.
+Here's how it works:
 
 ** How It Works
-- Utilizes multiple boxes, each with increasing review intervals.
+- Repetition is the key to memorize
+#+attr_html: :width 400px
+#+attr_org: :width 400
+[[file:img/curve_of_forgetting.jpg]]
+
+- Utilizes multiple compartments, each with increasing review intervals.
 - When you answer correctly, the card progresses to the next box.
 - An incorrect answer results in the card moving back to the initial box for revision.
 
@@ -20,24 +27,32 @@ The core principle involves using multiple boxes, each with a different review p
 #+attr_org: :width 400
 [[file:img/Leitner_system_alternative.png]]
 
-- Repetition is the key to memorize
-
-#+attr_html: :width 400px
-#+attr_org: :width 400
-[[file:img/curve_of_forgetting.jpg]]
-
-
 #+attr_html: :width 400px
 #+attr_org: :width 400
 [[file:img/Leitner_system_animation.gif]]
+
 ** Why you should use InnovateSphere
 Facilitates learning:
+
+| What        | How                   |
+|-------------+-----------------------|
+| translation | Basic words/sentences |
+| Citation    | Gaped Sentence        |
+| definition  | Basic words/sentences |
+| location    | Picture               |
+| date        | Basic words/sentences |
+
+*** What
   - translations
   - associations
   - definitions
-  - gapped sentences
   - dates
   - concepts
+  - location
+*** How
+  - gapped sentences
+  - pictures
+  - basic words/sentences
 
 *** Recommended Review Frequency
 1. Box 1: Daily
@@ -68,15 +83,14 @@ Facilitates learning:
 
 * Frequently Asked Questions (FAQs)
 ** How to Maximize Learning?
-- Engage actively with flashcards, ensure consistent daily reviews, and aim for gradual progress through the boxes.
+Engage actively with flashcards, ensure consistent daily reviews, and aim for gradual progress through the boxes.
 
 ** How to Handle Difficult Concepts?
-- For challenging cards, consider breaking them down into smaller, digestible parts.
+For challenging cards, consider breaking them down into smaller, digestible parts.
 
 ** Can I Customize Review Intervals?
-- Yes, adjust intervals based on personal learning patterns and card difficulty.
+Yes, adjust intervals based on personal learning patterns and card difficulty.
 
 * Conclusion
 The InnovateSphere method, with its structured review intervals and interactive learning approach, stands as an effective tool for mastering various subjects.
 
-# Set up notifications, engage with the method regularly, and experience efficient learning with InnovateSphere.
