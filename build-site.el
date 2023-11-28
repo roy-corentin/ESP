@@ -30,6 +30,7 @@
              :base-directory "./content"
              :publishing-function 'org-html-publish-to-html
              :publishing-directory "./public"
+             :base-extension "org\\|svg\\|css\\|png\\|jpg"
              :with-author nil           ;; Don't include author name
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc t                ;; Include a table of contents
