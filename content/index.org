@@ -10,7 +10,9 @@ Sebastian Leitner, a German commentator and Science Popularizer, devised the spa
 
 * Understanding the Leitner Method
 The core principle involves using multiple compartments in the same box, each with a different review period.
+
 Another key principle is the flashcard method, featuring a front side presenting a phrase or image, while the reverse side provides the corresponding answer or information.
+
 Here's how it works:
 
 ** How It Works
