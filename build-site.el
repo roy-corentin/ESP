@@ -30,7 +30,6 @@
          :publishing-function org-html-publish-to-html ; Changed from 'org-html-publish-to-html'
          :publishing-directory "./public"
          :with-author nil
-         :with-creator t
          :with-toc t
          :section-numbers nil
          :time-stamp-file nil)
